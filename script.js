@@ -14,7 +14,7 @@ var message = document.getElementById("timeEvent");
 
 if (time == partyTime){
     messageText = "IZ PARTEE TIME!!";
-	image = "https://i.pinimg.com/originals/cd/39/27/cd392780c4f81d80c88adb4745d08de2.jpg";
+	image = "https://cdn.animalencyclopedia.info/wp-content/uploads/2018/04/cat.jpg";
 } else if (time == napTime) {
     messageText = "IZ NAP TIME...";
 	image = "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKHUZJ.img?h=416&w=624&m=6&q=60&u=t&o=f&l=f&x=1700&y=1854";
